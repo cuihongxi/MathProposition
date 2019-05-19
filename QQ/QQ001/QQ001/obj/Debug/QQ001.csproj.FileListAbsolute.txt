@@ -1,0 +1,8 @@
+E:\MyWork\MyC#\QQ\QQ001\QQ001\bin\Debug\QQ001.exe
+E:\MyWork\MyC#\QQ\QQ001\QQ001\bin\Debug\QQ001.pdb
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.csprojResolveAssemblyReference.cache
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.Properties.Resources.resources
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.csproj.GenerateResource.Cache
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.exe
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.pdb
+E:\MyWork\MyC#\QQ\QQ001\QQ001\obj\Debug\QQ001.Server.resources

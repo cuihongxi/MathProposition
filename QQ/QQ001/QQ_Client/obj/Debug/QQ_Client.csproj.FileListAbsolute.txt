@@ -1,0 +1,8 @@
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\bin\Debug\QQ_Client.exe
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\bin\Debug\QQ_Client.pdb
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.csprojResolveAssemblyReference.cache
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.Properties.Resources.resources
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.Client.resources
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.csproj.GenerateResource.Cache
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.exe
+E:\MyWork\MyC#\QQ\QQ001\QQ_Client\obj\Debug\QQ_Client.pdb
